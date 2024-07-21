@@ -1,3 +1,4 @@
 # The-Gallery
 ![Alt Text](./unsamples/Screen_Img.gif))
-[a link](https://shriganeshpurohit.github.io/The-Gallery/)
+
+[Try link](https://shriganeshpurohit.github.io/The-Gallery/)
