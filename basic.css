@@ -1,0 +1,26 @@
+.container > div{
+    border: 2px dotted plum;
+    display: flex;
+    justify-content: content;
+    align-items: center;
+
+}
+
+.container > div > img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+    
+}
+
+img:hover { transform: scale(0.9); }
+
+ h1{
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color:papayawhip;
+}
